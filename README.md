@@ -4,4 +4,4 @@ This is my implementation(Work in progress) of building policy for Modified Blac
 
 The problem statement can be found at https://docs.google.com/document/d/1X27z_b080tR1UamYVrZKEKYOMewKCnaHXBnJvbxugDY/edit
 
-The code has been built, with reference to the [solution](https://github.com/mari-linhares/easy21) built for David Silvers's RL course assignment(Easy 21)
+The code has been built, with reference to the [solution](https://github.com/mari-linhares/easy21) built for David Silver's RL course assignment(Easy 21)
