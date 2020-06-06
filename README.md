@@ -4,4 +4,4 @@ This is my implementation of building policy for Modified Blackjack (Achieve 31)
 
 The problem statement can be found at https://docs.google.com/document/d/1X27z_b080tR1UamYVrZKEKYOMewKCnaHXBnJvbxugDY/edit
 
-This code has been built, with reference to the [solution](https://github.com/mari-linhares/easy21) builty for David Silvers's RL course assignment(Easy 21)
+This code has been built, with reference to the [solution](https://github.com/mari-linhares/easy21) built for David Silvers's RL course assignment(Easy 21)
